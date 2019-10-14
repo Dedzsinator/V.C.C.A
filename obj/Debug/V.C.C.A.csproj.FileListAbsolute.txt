@@ -1,0 +1,13 @@
+C:\Users\degin\Desktop\V.C.C.A\bin\Debug\V.C.C.A.exe.config
+C:\Users\degin\Desktop\V.C.C.A\bin\Debug\V.C.C.A.exe
+C:\Users\degin\Desktop\V.C.C.A\bin\Debug\V.C.C.A.pdb
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.csprojAssemblyReference.cache
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.Form1.resources
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.Properties.Resources.resources
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.csproj.GenerateResource.cache
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.csproj.CoreCompileInputs.cache
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.exe
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.pdb
+C:\Users\degin\Desktop\V.C.C.A\bin\Debug\AIMLbot.dll
+C:\Users\degin\Desktop\V.C.C.A\bin\Debug\AIMLbot.pdb
+C:\Users\degin\Desktop\V.C.C.A\obj\Debug\V.C.C.A.csproj.CopyComplete
